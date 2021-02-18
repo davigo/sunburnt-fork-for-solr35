@@ -1,0 +1,6 @@
+*.pyc
+.cache
+MANIFEST
+build
+dist
+docs/_build
